@@ -5,4 +5,4 @@ I was unable to find code that properly mixed RGB colors using the additive appr
 
 Example syntax:  
 
-Color mixedColor = mixer.Additive(Color.Red, Color.Green, 0.5f);
+Color mixedColor = mixer.Additive(Color.Red, Color.Green, 0.5f); //Makes Yellow
